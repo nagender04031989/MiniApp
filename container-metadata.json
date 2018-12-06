@@ -1,0 +1,11 @@
+{
+  "ernVersion": "0.26.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "/Users/nitish/Desktop/ElectrodeTest/MiniApp/ListMiniApp"
+  ],
+  "nativeDeps": [
+    "react-native@0.57.5"
+  ],
+  "platform": "ios"
+}
